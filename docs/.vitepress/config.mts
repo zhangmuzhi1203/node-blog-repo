@@ -6,13 +6,13 @@ export default defineConfig({
   title: "张牧之的nodejs知识库",
   description: "部署网站",
   //添加图标
-  head: [['link', { rel: 'icon', href: '/public/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: 'https://img.picui.cn/free/2024/09/06/66dac6dc01e2b.ico' }]],
   // 获取每个文件最后一次 git 提交的 UNIX 时间戳(ms)，同时它将以合适的日期格式显示在每一页的底部
   lastUpdated: true, // string | boolean
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     //添加logo
-    logo: '/public/logo.png',
+    logo: 'https://img.picui.cn/free/2024/09/06/66dac6dbec314.png',
     //隐藏logo右边的文字
     siteTitle: false,
     //头部导航栏配置
