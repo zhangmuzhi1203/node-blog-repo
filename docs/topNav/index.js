@@ -6,6 +6,8 @@ export default [
       { text: "express", link: "/topNote/express" },
       { text: "mongodb", link: "/topNote/mongodb" },
       { text: "mongoose", link: "/topNote/mongoose" },
+      { text: "mongoose", link: "/topNote/mongoose" },
+      { text: "sequlize", link: "/topNote/sequlize" },
       { text: "nestjs", link: "/topNote/nestjs" },
     ],
   },
@@ -16,12 +18,10 @@ export default [
       { text: "Linux", link: "/topNote/linux" },
     ],
   },
-  // {
-  //   text: "服务器相关文档",
-  //   items: [
-  //     { text: "服务器和域名的购买", link: "/topNote/buy" },
-  //     { text: "服务器和域名的备案", link: "/topNote/note" },
-  //     { text: "如何使用服务器与简单部署", link: "/topNote/deploy" },
-  //   ],
-  // },
+  {
+    text: "服务器相关知识",
+    items: [
+      { text: "域名解析", link: "/topNote/domain" },
+    ],
+  },
 ]
