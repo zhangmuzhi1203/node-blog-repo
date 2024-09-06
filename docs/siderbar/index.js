@@ -17,7 +17,6 @@ export const vitePressNote = {
         { text: '11.utils', link: '/topNote/node/page11' },
         { text: '12.crypto', link: '/topNote/node/page12' },
         { text: '13.nodejs集成redis', link: '/topNote/node/page13' },
-        { text: '14.express集成redis', link: '/topNote/node/page14' },
       ]
     }
   ],
@@ -25,11 +24,12 @@ export const vitePressNote = {
     {
       text: 'Express',
       items: [
-        { text: '使用express生成器去创建项目', link: '/topNote/express/page1' },
-        { text: '基本使用', link: '/topNote/express/page2' },
-        { text: 'express生成器app.js文件解析', link: '/topNote/express/page3' },
-        { text: '中间件', link: '/topNote/express/page4' },
-        { text: '获取请求参数', link: '/topNote/express/page5' }
+        { text: '1.使用express生成器去创建项目', link: '/topNote/express/page1' },
+        { text: '2.基本使用', link: '/topNote/express/page2' },
+        { text: '3.express生成器app.js文件解析', link: '/topNote/express/page3' },
+        { text: '4.中间件', link: '/topNote/express/page4' },
+        { text: '5.获取请求参数', link: '/topNote/express/page5' },
+        { text: '6.express集成redis', link: '/topNote/express/page6' },
       ]
     }
   ],
