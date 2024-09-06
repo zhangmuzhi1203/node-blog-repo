@@ -6,7 +6,7 @@ export default [
       { text: "express", link: "/topNote/express" },
       { text: "mongodb", link: "/topNote/mongodb" },
       { text: "mongoose", link: "/topNote/mongoose" },
-      { text: "mongoose", link: "/topNote/mongoose" },
+      { text: "mysql", link: "/topNote/mysql" },
       { text: "sequlize", link: "/topNote/sequlize" },
       { text: "nestjs", link: "/topNote/nestjs" },
     ],
