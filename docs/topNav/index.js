@@ -9,6 +9,7 @@ export default [
       { text: "mysql", link: "/topNote/mysql" },
       { text: "sequlize", link: "/topNote/sequlize" },
       { text: "nestjs", link: "/topNote/nestjs" },
+      { text: "typescript", link: "/topNote/typescript" },
     ],
   },
   {

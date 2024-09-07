@@ -43,6 +43,18 @@ export const vitePressNote = {
       // ]
     }
   ],
+  '/topNote/typescript': [
+    {
+      text: 'TypeScript',
+      items: [
+        { text: '1.初始化与编译', link: '/topNote/typescript/page1' },
+        { text: '2.类型声明', link: '/topNote/typescript/page2' },
+        { text: '3.类型总览', link: '/topNote/typescript/page3' },
+        { text: '4.基础类型(原始类型)', link: '/topNote/typescript/page4' },
+        { text: '5.任意类型(any和known)', link: '/topNote/typescript/page5' },
+      ]
+    }
+  ],
   '/topNote/git': [{
     text: 'Git',
     items: [
