@@ -72,6 +72,14 @@ export const vitePressNote = {
       { text: '解决合并冲突', link: '/topNote/git/page12' },
       { text: '回退和rebase', link: '/topNote/git/page13' },
     ]
-  }]
+  }],
+  'topNote/english': [
+    {
+      text: '英语口语',
+      items: [
+        { text: '超市主题', link: '/topNote/english/page1' }
+      ]
+    }
+  ],
 
 }

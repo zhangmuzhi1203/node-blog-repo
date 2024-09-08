@@ -17,6 +17,7 @@ export default [
     items: [
       { text: "Git", link: "/topNote/git" },
       { text: "Linux", link: "/topNote/linux" },
+      { text: "英语口语", link: "/topNote/english" },
     ],
   },
   {
