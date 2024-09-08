@@ -40,7 +40,7 @@ In big supermarkets I can't find the products I like.
 在大超市 我找不到我喜欢的产品 
 That's why I go small local stores,convenience stores or there are also very small supermarkets too
 那就是为什么我去当地的小超市，便利店，或者也有一些小超市
-We call these convenience stores.For example meiyijia is a convenience stores
+We call these convenience stores.For example Meiyijia is a convenience stores
 我们叫这些便利店 例如 美宜佳是一个便利店
 These stores sell some food and drinks but don't have a lot of items
 这些商店卖一些食物和饮料但是并没有很多其他的东西
