@@ -1,15 +1,14 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "张牧之的知识文档库" #首页最显眼的那个名字
-  text: "学习心得分享" #首页最显眼的那个文本在名字下面
+  name: "张牧之的知识文档合集" #首页最显眼的那个名字
+  text: "" #首页最显眼的那个文本在名字下面
   tagline: 一直学习 持续进步 #首页最显眼的那个文本下面宣传语
   actions: #宣传语下的两个按钮
     - theme: brand
       text: 开始吧 go #按钮文本
-      link: /topNote/node #按钮连接
+      link: /title/node #按钮连接
     - theme: alt
       text: Github地址 #按钮文本
       link: https://github.com/zhangmuzhi1203?tab=repositories #按钮连接
