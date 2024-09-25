@@ -25,6 +25,8 @@ export default [
     text: "服务器",
     items: [
       { text: "域名解析", link: "/title/domain" },
+      { text: "ssh配置", link: "/title/ssh" },
+      { text: "宝塔面板", link: "/title/panel" },
     ],
   },
 ]
