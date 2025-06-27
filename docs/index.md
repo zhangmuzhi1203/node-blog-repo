@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "张牧之的知识文档合集" #首页最显眼的那个名字
+  name: "张牧之的知识文档合集111" #首页最显眼的那个名字
   text: "" #首页最显眼的那个文本在名字下面
   tagline: 一直学习 持续进步 #首页最显眼的那个文本下面宣传语
   actions: #宣传语下的两个按钮
@@ -24,4 +24,3 @@ features: #两个按钮下的卡片
     details: MongoDB 是一个面向文档的 NoSQL 数据库，使用灵活的 JSON 类格式存储数据，适合处理海量数据并支持高效的查询和扩展。 #卡片描述
     link: https://docs.mongoing.com/
 ---
-
